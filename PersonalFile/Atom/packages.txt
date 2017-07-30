@@ -3,4 +3,10 @@ linter-gcc
 
 Markdown Preview
 
+git-plus
+
+highlight-selected
+minimap
+minimap-highlight-selected
+
 http://blog.csdn.net/qq_36731677/article/details/54609583
