@@ -7,6 +7,8 @@ bool ans[N];
 int n, m, q, Tc;
 bool vis[N];
 
+
+
 int aa;
 char ch;
 int F() {
