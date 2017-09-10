@@ -1,6 +1,11 @@
 #include <cstdio>
 
 namespace IO {
+
+//MT means bytes of total file size
+//Too large can cause MLE
+//Too small can cause read not complete
+//Now its size is 30MB
 const int MT = 30 * 1024 * 1024;
 char IO_BUF[MT];
 int IO_PTR, IO_SZ;
